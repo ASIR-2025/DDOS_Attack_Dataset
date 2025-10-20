@@ -78,7 +78,8 @@ Muestra la frecuencia de comunicación entre pares de IPs.
 Por qué es útil: En un DDoS, muchas IPs de origen apuntan a una sola IP destino. Esto se ve claramente en un heatmap.
 Tipo de gráfico: Mapa de calor (heatmap) de conteo.
 
-<img width="525" height="476" alt="imagen" src="https://github.com/user-attachments/assets/355c2a09-4496-400d-9fab-6f79f7bdc447" />
+<img width="528" height="479" alt="imagen" src="https://github.com/user-attachments/assets/24f1c48f-c125-4587-ab00-e58f43d6d1e7" />
+
 
 -------------------------------------------------------------------------------------------------------
 # tot_kbps a lo largo del tiempo
