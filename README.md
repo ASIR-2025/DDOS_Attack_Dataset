@@ -73,11 +73,17 @@ https://www.kaggle.com/datasets/shayalvaghasiya/ddos-sdn?resource=download
 <img width="769" height="408" alt="image" src="https://github.com/user-attachments/assets/dcb724a4-071e-4001-bf08-ffdf6ae994f5" />
 
 -------------------------------------------------------------------------------------------------------
-# Falta este
+# Heatmap de IPs origen (src) vs IPs destino (dst)
+Muestra la frecuencia de comunicación entre pares de IPs.
+Por qué es útil: En un DDoS, muchas IPs de origen apuntan a una sola IP destino. Esto se ve claramente en un heatmap.
+Tipo de gráfico: Mapa de calor (heatmap) de conteo.
+
+<img width="525" height="476" alt="imagen" src="https://github.com/user-attachments/assets/355c2a09-4496-400d-9fab-6f79f7bdc447" />
 
 -------------------------------------------------------------------------------------------------------
 # tot_kbps a lo largo del tiempo
 - Muestra el uso total del ancho de banda (tx + rx) en el tiempo.
 - Por qué es útil: Un DDoS suele generar picos repentinos de tráfico. Este gráfico te permite ver esos momentos críticos.
 -Tipo de grafico: Line plot
+
 <img width="445" height="340" alt="image" src="https://github.com/user-attachments/assets/0fa6ded6-57ea-402b-9ae3-2c52b8307221" />
