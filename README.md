@@ -73,10 +73,10 @@ https://www.kaggle.com/datasets/shayalvaghasiya/ddos-sdn?resource=download
 <img width="769" height="408" alt="image" src="https://github.com/user-attachments/assets/dcb724a4-071e-4001-bf08-ffdf6ae994f5" />
 
 -------------------------------------------------------------------------------------------------------
-# Heatmap de IPs origen (src) vs IPs destino (dst)
+# IPs origen (src) vs IPs destino (dst)
 Muestra la frecuencia de comunicación entre pares de IPs.
 Por qué es útil: En un DDoS, muchas IPs de origen apuntan a una sola IP destino. Esto se ve claramente en un heatmap.
-Tipo de gráfico: Mapa de calor (heatmap) de conteo.
+Tipo de gráfico: Scatter
 
 <img width="528" height="479" alt="imagen" src="https://github.com/user-attachments/assets/24f1c48f-c125-4587-ab00-e58f43d6d1e7" />
 
