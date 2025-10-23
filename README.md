@@ -47,7 +47,8 @@ https://www.kaggle.com/datasets/shayalvaghasiya/ddos-sdn?resource=download
 # TX_BYTES VS RX_BYTES
 - Permite ver cómo cambia el volumen de bytes transmitidos y recibidos a lo largo del tiempo/índice.
 - Tipo de grafico: De lineas
-<img width="935" height="642" alt="image" src="https://github.com/user-attachments/assets/3ff44fd3-3582-4403-9dcb-bfda43ec0e2f" />
+<img width="1014" height="857" alt="Sin título" src="https://github.com/user-attachments/assets/de15f254-bd20-493b-8ff0-8152a64dc0e6" />
+
 
 
 -------------------------------------------------------------------------------------------------------
@@ -62,7 +63,8 @@ https://www.kaggle.com/datasets/shayalvaghasiya/ddos-sdn?resource=download
 - Muestra la relación entre número de paquetes y cantidad de datos transferidos por flujo.
 - Por qué es útil: En ataques, puede haber muchos paquetes con pocos bytes (como pings o SYNs). Te ayuda a ver patrones anómalos
 - Grafico: Scatter plot
-<img width="639" height="411" alt="image" src="https://github.com/user-attachments/assets/b2e041d7-3fd9-4a67-80e7-d26aa5ff6672" />
+<img width="989" height="590" alt="Sin título" src="https://github.com/user-attachments/assets/118333e0-1a20-4ba0-907d-9d903152a485" />
+
 
 -------------------------------------------------------------------------------------------------------
 # Cantidad de flujos por Protocol
@@ -70,15 +72,16 @@ https://www.kaggle.com/datasets/shayalvaghasiya/ddos-sdn?resource=download
 - Por qué es útil: Algunos ataques se basan en protocolos específicos (ej. UDP flood, ICMP flood). Un pico en un protocolo puede indicar ataque.
 - Tipo de gráfico: Lineal
   
-<img width="769" height="408" alt="image" src="https://github.com/user-attachments/assets/dcb724a4-071e-4001-bf08-ffdf6ae994f5" />
+<img width="989" height="590" alt="Sin título" src="https://github.com/user-attachments/assets/cbdb5565-a4d4-4c67-833d-28e51f8d8808" />
+
 
 -------------------------------------------------------------------------------------------------------
 # IPs origen (src) vs IPs destino (dst)
 Muestra la frecuencia de comunicación entre pares de IPs.
 Por qué es útil: En un DDoS, muchas IPs de origen apuntan a una sola IP destino. Esto se ve claramente en un heatmap.
 Tipo de gráfico: Scatter
+<img width="615" height="563" alt="Sin título" src="https://github.com/user-attachments/assets/203d3a91-aa6c-4110-b17e-cd85235d6ddf" />
 
-<img width="528" height="479" alt="imagen" src="https://github.com/user-attachments/assets/24f1c48f-c125-4587-ab00-e58f43d6d1e7" />
 
 
 -------------------------------------------------------------------------------------------------------
