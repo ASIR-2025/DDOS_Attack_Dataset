@@ -68,7 +68,7 @@ https://www.kaggle.com/datasets/shayalvaghasiya/ddos-sdn?resource=download
 # Cantidad de flujos por Protocol
 - Muestra cuántos flujos se han realizado por cada protocolo (TCP, UDP, ICMP, etc.).
 - Por qué es útil: Algunos ataques se basan en protocolos específicos (ej. UDP flood, ICMP flood). Un pico en un protocolo puede indicar ataque.
-- Tipo de gráfico: Bar chart
+- Tipo de gráfico: Lineal
   
 <img width="769" height="408" alt="image" src="https://github.com/user-attachments/assets/dcb724a4-071e-4001-bf08-ffdf6ae994f5" />
 
