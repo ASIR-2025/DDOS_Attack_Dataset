@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+rx_bytes = dataset['rx_bytes'].to_numpy()
+tx_bytes = dataset['tx_bytes'].to_numpy()
 
 dataset = pd.read_csv('dataset_sdn_normal.csv')
 tx_mbs = dataset['tx_bytes'] / 1e6
